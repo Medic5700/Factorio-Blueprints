@@ -33,3 +33,7 @@ Generating Blueprint Images
         use '/blueprint custom file: show-background:true show-alt-mode:true show-grid-numbers:true' to upload a 'blueprint text file' to the bot
         Note: 'file' must go before options, otherwise options seem to be ignored
 	Note: '/bp file' shows a fancy boarder with more information about the blueprint (materials needed, name of blueprint, etc), BUT the zoomlevel can't be adjusted at all
+
+Factorio Blueprint (Stylized) Visualizer
+    #TODO to evaluate
+    https://piebro.github.io/factorio-blueprint-visualizer/
